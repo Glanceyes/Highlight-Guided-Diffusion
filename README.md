@@ -4,7 +4,8 @@
 
 Official implementation of **Highlight-Guided Diffusion: Scribble can be Good Guidance**
 
-[![Project page](https://img.shields.io/badge/Website-warming up-red)](https://highlight-guided.io) [![Paper](https://img.shields.io/badge/Paper-warming up-red)](#) 
+[![Project page](https://img.shields.io/badge/Website-warming_up-red)](https://highlight-guided.io)
+ [![Paper](https://img.shields.io/badge/Paper-warming_up-red)](#) 
 
 <br/>
 
@@ -30,8 +31,7 @@ Evaluations on the PASCAL-Scribble Dataset demonstrate the capability of our met
 
 
 
-##  Highlights
-
+##  To Do
 
 
 - [ ] Upload codes
@@ -41,6 +41,13 @@ Evaluations on the PASCAL-Scribble Dataset demonstrate the capability of our met
 
 <br/>
 
+
+## Method
+
+
+![Method](assets/Method.jpeg)
+
+<br/>
 
 
 ## Results
@@ -66,6 +73,8 @@ Evaluations on the PASCAL-Scribble Dataset demonstrate the capability of our met
 
 
 [BoxDiff: Text-to-Image Synthesis with Training-Free Box-Constrained Diffusion](https://github.com/showlab/BoxDiff)
+
+[Dense Text-to-Image Generation with Attention Modulation](https://github.com/naver-ai/DenseDiffusion)
 
 [Generative Data Augmentation Improves Scribble-supervised Semantic Segmentation](https://arxiv.org/abs/2311.17121v1)
 
