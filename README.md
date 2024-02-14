@@ -4,8 +4,12 @@
 
 Official implementation of **Highlight-Guided Diffusion: Scribble can be Good Guidance**
 
+
 [![Project page](https://img.shields.io/badge/Website-warming_up-red)](https://highlight-guided.io)
  [![Paper](https://img.shields.io/badge/Paper-warming_up-red)](#) 
+
+
+[Seonho Lee](https://github.com/Glanceyes), [Jaejin Lee](https://github.com/ArchMelow), [Minhee Lee](https://github.com/minigb), [Hannah Park](https://github.com/crescent-stdio), [Jihoon Lee](https://github.com/maker29)<br>
 
 <br/>
 
